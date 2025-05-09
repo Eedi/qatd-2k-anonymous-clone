@@ -18,7 +18,7 @@ Each dialogue represents a chat-based conversation between a tutor and a student
 - **Language(s) (NLP):** English
 - **License:** cc-by-nc-sa 4.0
 
-### Dataset Sources [optional]
+### Dataset Sources
 
 <!-- Provide the basic links for the dataset. -->
 
