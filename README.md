@@ -148,7 +148,7 @@ The dataset was curated through the following sequential filtering and processin
    `"sexual"`, `"sexual/minors"`, `"harassment"`, `"harassment/threatening"`, `"hate"`, `"hate/threatening"`, `"illicit"`, `"illicit/violent"`, `"self-harm"`, `"self-harm/intent"`, `"self-harm/instructions"`, `"violence"`, `"violence/graphic"`.
 
 3. **Tutor Consent**  
-   Only dialogues involving one of 29 tutors who provided explicit consent for research use were retained.
+   Only dialogues involving one of 25 tutors who provided explicit consent for research use were retained.
 
 4. **Downsampling**  
    The dataset was downsampled to 2,000 conversations, with a cap of 1,000 unique questions and no more than 8 conversations per question. Sampling prioritized diversity in dialogue quality and structure by maximizing the TF-IDF score of each conversation's `TalkMovePredictions`.
